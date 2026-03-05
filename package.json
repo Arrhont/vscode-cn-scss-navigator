@@ -2,8 +2,12 @@
   "name": "cn-scss-navigator",
   "displayName": "CN SCSS Navigator",
   "description": "Navigate from cn() selector to corresponding SCSS file",
-  "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "version": "1.0.1",
+  "publisher": "evgender",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arrhont/vscode-cn-scss-navigator"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
